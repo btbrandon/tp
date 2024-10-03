@@ -160,6 +160,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/juliantayyc.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/jyl27.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
